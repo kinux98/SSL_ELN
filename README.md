@@ -1,4 +1,8 @@
 # Semi-supervised Semantic Segmentation with Error Localization Network
+[Our paper(TBD)](http://cvlab.postech.ac.kr/research/ELN/)
+
+[Project page(TBD)](http://cvlab.postech.ac.kr/research/ELN/)
+
 This repository contains the official implementation of : 
 > Semi-supervised Semantic Segmentation with Error Localization Network
 
@@ -97,6 +101,17 @@ you can visualize segmentation ground truth/model's result, ELN's binary mask, a
 
 Of course, you may change arugments to proper value.
 
+## Citation
+If you find this project useful, please consider citing as follows:
+```
+@InProceedings{kinux98_2022_CVPR,
+  author = {Donghyeon Kwon and Suha Kwak},
+  title = {Semi-supervised Semantic Segmentation with Error Localization Network},
+  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2022}
+}
+```
 
 
 ### Acknowledgements
