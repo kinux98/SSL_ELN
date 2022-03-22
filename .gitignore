@@ -138,7 +138,7 @@ dmypy.json
 *.json
 code_save/
 wandb/
-checkpoints/
+
 pretrained/
 *.pth
 *.zip
