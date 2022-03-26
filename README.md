@@ -1,7 +1,7 @@
 # Semi-supervised Semantic Segmentation with Error Localization Network
 [Our paper(TBD)](http://cvlab.postech.ac.kr/research/ELN/)
 
-[Project page(TBD)](http://cvlab.postech.ac.kr/research/ELN/)
+[Project page](http://cvlab.postech.ac.kr/research/ELN/)
 
 This repository contains the official implementation of : 
 > Semi-supervised Semantic Segmentation with Error Localization Network
