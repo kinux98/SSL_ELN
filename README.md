@@ -46,7 +46,7 @@ If you don't have SBD dataset, please refer to [this blog](https://www.sun11.me/
 
 For Cityscpaes, you can download the dataset from their official [website](https://www.cityscapes-dataset.com).
 
-Afterwards, your data directory structure should have following directory structure:
+Afterwards, your data directory structure should have following scheme:
 
     ├── ./dataset/pascal_voc_seg/VOCdevkit/VOC2012                    
                                             ├── Annotations 
@@ -99,7 +99,7 @@ you can visualize segmentation ground truth/model's result, ELN's binary mask, a
 
 > python3 visualize.py --dataset='voc' --pretrained-ckpt=./path/to/saved/model.pth --backbone_name=101 --image-path=./path/to/input/image --gt-path=./path/to/gt
 
-Of course, you may change arugments to proper value.
+Of course, you may change arguments to proper value.
 
 ## Citation
 If you find this project useful, please consider citing as follows:
@@ -107,7 +107,7 @@ If you find this project useful, please consider citing as follows:
 @InProceedings{kinux98_2022_CVPR,
   author = {Donghyeon Kwon and Suha Kwak},
   title = {Semi-supervised Semantic Segmentation with Error Localization Network},
-  booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle = {Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   month = {June},
   year = {2022}
 }
