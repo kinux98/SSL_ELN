@@ -1,5 +1,5 @@
 # Semi-supervised Semantic Segmentation with Error Localization Network
-[Our paper](https://cvlab.postech.ac.kr/research/ELN/paper.pdf)
+[Our paper](https://arxiv.org/pdf/2204.02078.pdf)
 
 [Project page](http://cvlab.postech.ac.kr/research/ELN/)
 
