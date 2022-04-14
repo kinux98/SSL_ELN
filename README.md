@@ -3,6 +3,10 @@
 
 [Project page](http://cvlab.postech.ac.kr/research/ELN/)
 
+Donghyeon Kwon and Suha Kwak
+
+> kinux98@postech.ac.kr
+
 This repository contains the official implementation of : 
 > Semi-supervised Semantic Segmentation with Error Localization Network
 
