@@ -3,7 +3,7 @@
 
 [Project page](http://cvlab.postech.ac.kr/research/ELN/)
 
-Donghyeon Kwon and Suha Kwak
+*Donghyeon Kwon and Suha Kwak*
 
 > kinux98@postech.ac.kr
 
