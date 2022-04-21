@@ -10,6 +10,10 @@ This repository contains the official implementation of :
 
 that has been accepted to 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022).
 
+<div align="center">
+  <img src="fig5.png"/>
+</div>
+
 ## Highlight
 - Segmentation networks trained by our method achieves the state of the art on two benchmark datasets, PASCAL VOC 2012 and Cityscapes, in every setting.
   
