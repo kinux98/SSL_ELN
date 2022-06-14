@@ -110,12 +110,13 @@ Of course, you may change arguments to proper value.
 ## Citation
 If you find this project useful, please consider citing as follows:
 ```
-@InProceedings{kinux98_2022_CVPR,
-  author = {Donghyeon Kwon and Suha Kwak},
-  title = {Semi-supervised Semantic Segmentation with Error Localization Network},
-  booktitle = {Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month = {June},
-  year = {2022}
+@InProceedings{Kwon_2022_CVPR,
+    author    = {Kwon, Donghyeon and Kwak, Suha},
+    title     = {Semi-Supervised Semantic Segmentation With Error Localization Network},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {9957-9967}
 }
 ```
 
