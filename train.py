@@ -481,10 +481,10 @@ if __name__ == "__main__":
     parser.add_argument('--temp', type=float, default=0.5)
 
     parser.add_argument('--lr', type=float, default=1e-4, #for adamw
-                        help='Initial learning rate (default: 0.001)')
+                        help='Initial learning rate (default: 1e-4)')
 
     parser.add_argument('--weight-decay', type=float, default=1e-5,
-                        help='Weight decay for adamW (default: 0.0005)')
+                        help='Weight decay for adamW (default: 1e-5)')
                 
     args = parser.parse_args()
     main(args)
